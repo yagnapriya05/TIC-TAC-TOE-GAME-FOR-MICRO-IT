@@ -15,3 +15,4 @@ Clean and well-commented code
 [Language/Framework] html,css and javascript
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/dc15bfcb-b378-45c8-b5ca-c42b5ec35102)
